@@ -1,0 +1,23 @@
+{
+	"name": "fligthexport",
+	"version": "1.0.0",
+	"description": "demo site for booking vacations",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"deploy": "gh-pages -d dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Rexsunon/TravelV.git"
+	},
+	"author": "Evidence Rex Osikhena",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Rexsunon/TravelV/issues"
+	},
+	"homepage": "https://github.com/Rexsunon/TravelV",
+	"dependencies": {
+		"gh-pages": "^2.0.1"
+	}
+}
